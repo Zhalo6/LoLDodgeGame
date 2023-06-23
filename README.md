@@ -33,7 +33,7 @@ These are goals spread out throughout the week that we hopefully reach during ou
 # Future Plans
 
 ---
-Because we used a coding language we have never used, this project took longer than it had to be if we used a coding language that we know. This was the purpose of the final 30 idea and branching out is a good experience for the future. Future plans to improve upon our game is to first of all, finish it. There are features that are still not incorperated into the game which would really expand the game from where we are now. Then we should 
+Because we used a coding language we have never used, this project took longer than it had to be if we used a coding language that we knew. This was the purpose of the final 30 idea and branching out is a good experience for the future. Future plans to improve upon our game is to first of all, finish it. There are features that are still not incorporated into the game which would really expand the game from where we are now. Then we should optimize and polish.
 
 ## Mistakes
 > During our proccess of creating our game, we made several errors that took a lot of searching for to fix. We were able to overcome these by asking friends that know python better than us while still learning more about what can be done in python. An example would be in the first week when we were not aware of a function that automatically detects collision with objects. The game did run but it is exremly inefficient with many redundant lines of code.
